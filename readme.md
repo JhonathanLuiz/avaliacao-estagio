@@ -57,4 +57,4 @@ O teste consiste no desenvolvimento de uma tela de login e um CRUD.
 
 > **Você deve criar um fork do repositório no seu GitHub e subir seu código lá,**
 
-### Boa Sorte!! ;)
+### Boa Sorte!!
