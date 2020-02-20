@@ -40,7 +40,6 @@ O teste consiste no desenvolvimento de uma tela de login e um CRUD.
 - Código limpo
 - Simplicidade
 - Lógica de programação
-- Conceitos de orientação a objetos
 - Otimização do código implementado
 - Organização e padrão de Commits
 
