@@ -1,11 +1,11 @@
-# Teste prático - Estágio Desenvovilmento de Software
+# Teste prático - Estágio Desenvolvimento de Software
 
 ---
 
 ## Introdução
 
-Este é um teste que aplicamos na seleção de novos desenvolvedores junior.  
- O teste consiste no desenvolvimento de um CRUD, simples assim!!
+Este é um teste que aplicamos na seleção de novo estagiário.  
+O teste consiste no desenvolvimento de uma tela de login e um CRUD.
 
 ## Objetivos
 
@@ -19,15 +19,17 @@ Este é um teste que aplicamos na seleção de novos desenvolvedores junior.
 
 ## Requisitos
 
+- Tela de Login
+
+  - Email
+  - Senha
+    Todo usuário cadastrado no CRUD deve realizar login.
+
 - Cadastro de usuários
   - Nome
-  - CPF
   - Data Nascimento
   - Email
-  - Tefone
-  - Endereço
-  - Cidade
-  - Estado
+  - Senha
 - Ao cadastrar um novo usuário, quando selecionar o estado deverá aparecer as suas respectivas cidades no campo cidade
 - Listar os usuários cadastrados - Ao clicar em um usuário, redirecionar para uma tela com as informações do mesmo
 - Editar os dados do usuário
