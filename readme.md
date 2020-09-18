@@ -57,6 +57,6 @@ O teste consiste no desenvolvimento de uma tela de login e um CRUD.
 
 > **Você deve criar um fork do repositório no seu GitHub e subir seu código lá**
 
-> **Prazo de 24 horas a partir do horário de envio do email de thiago.morilha@multicoisas.com.br com as instruções**
+> **Prazo de 72 horas a partir do horário de envio do email de thiago.morilha@multicoisas.com.br com as instruções**
 
 ### Boa Sorte!!
