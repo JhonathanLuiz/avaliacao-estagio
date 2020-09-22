@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <script src="funcoes.js"></script>
+</head>
+<body>
+<!-- Add os registros em Dados -->
+    <form class="form" onsubmit="Dados(nome)" action="">
+        <div class="card">
+            <div class="card-top">
+                <h2 class="title">Cadastro</h2>
+            </div>
+
+            <div class="card-group">
+                <label>Nome</label>
+                <input id="nome" type="text" name="nome" placeholder="Digite seu nome" required>
+            </div>
+
+            <div class="card-group">
+                <label>Data de Nascimento</label>
+                <input type="date" name="data" required>
+            </div>
+
+            <div class="card-group">
+                <label>E-mail</label>
+                <input type="email" name="email" placeholder="Digite seu e-mail" required>
+            </div>
+
+            <div class="card-group">
+                <label>Senha</label>
+                <input type="password" name="senha" placeholder="Digite sua Senha" required>
+            </div>
+
+            <div class="card-group btn">
+                <button type="submit">Cadastrar</button>
+            </div>
+        </div>        
+    </form>
+
+</body>
+</html>
